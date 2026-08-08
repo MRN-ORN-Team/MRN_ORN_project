@@ -4,9 +4,9 @@
 	branch = mrn-base
 [submodule "xapp-e2ap-py"]
 	path = xapp-e2ap-py
-	url = https://github.com/LordKirigiri/MRN_ORN_project_xapp.git
+	url = https://github.com/MRN-ORN-Team/MRN_ORN_project_xapp.git
 	branch = project2
 [submodule "gNB-e2sm-emu"]
 	path = gNB-e2sm-emu
-	url = https://github.com/LordKirigiri/MRN_ORN_project_gNB.git
+	url = https://github.com/MRN-ORN-Team/MRN_ORN_project_gNB.git
 	branch = project2
